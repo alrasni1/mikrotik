@@ -1,4 +1,4 @@
-#/ip f addr remove [f list="Yemen"];
+/ip f addr remove [f list="Yemen"];
 delay 10s;
 /ip f addr
 add comment="ABDULLAH_ALRASNI" list=Yemen address=5.100.160.0/21
